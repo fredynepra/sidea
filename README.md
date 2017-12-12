@@ -1,2 +1,5 @@
-# sidea
-Sistem Deteksi Anomali Data Menggunakan Metode K-Nearest Neighbor
+Proyek Data Mining
+
+Status: Final
+
+Teknologi bahasa pemrograman java terstruktur dengan dilengkapi grafik data.
